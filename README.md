@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mrebaal14@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**https://www.linkedin.com/in/muhammad-rebaal-34936616a**/</h3>
 <p align="left">
 </p>
 
