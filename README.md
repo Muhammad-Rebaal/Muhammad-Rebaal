@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rebaal</h1>
 <h3 align="center">A passionate FullStack developer from Pakistan</h3>
 
-- 💬 Ask me about **React,gsap,Next**
+- 💬 Ask me about **MERN,gsap,Next**
 
 - 📫 How to reach me **mrebaal14@gmail.com**
 
