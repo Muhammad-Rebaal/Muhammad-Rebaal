@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Rebaal
 =======================================================================================================================================
 
+[![An image of @muhammadrebaal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadrebaal)](https://holopin.io/@muhammadrebaal)
+
 I'm a Full Stack Developer
 --------------------------
 
