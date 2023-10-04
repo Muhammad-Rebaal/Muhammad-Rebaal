@@ -26,3 +26,9 @@ I'm a Full Stack Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Muhammad-Rebaal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Rebaal&stroke=ffffff&background=1e3a8a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
+  </a>
+</h1>
