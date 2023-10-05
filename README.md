@@ -7,6 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Full Stack Developer
 --------------------------
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 * 🌍  I'm based in Karachi,Pakistan
 * 🖥️  See my portfolio at [My Portfolio](http://jolly-bay-03ec43d00.3.azurestaticapps.net/)
 * ✉️  You can contact me at [mrebaal14@gmail.com](mailto:mrebaal14@gmail.com)
@@ -35,3 +37,5 @@ I'm a Full Stack Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Muhammad-Rebaal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Rebaal&stroke=ffffff&background=1e3a8a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Rebaal&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Rebaal" /> </p>
