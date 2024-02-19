@@ -4,7 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 * 🌍  I'm based in Karachi,Pakistan
-* 🖥️  See my portfolio at [My Portfolio](http://jolly-bay-03ec43d00.3.azurestaticapps.net/)
+* 🖥️  See my portfolio at [My Portfolio](https://stellar-gingersnap-beb77e.netlify.app/)
 * ✉️  You can contact me at [mrebaal14@gmail.com](mailto:mrebaal14@gmail.com)
 * 🚀  I'm currently working on I'm Currently working on Open Source.
 <h3 align="left">Connect with me:</h3>
