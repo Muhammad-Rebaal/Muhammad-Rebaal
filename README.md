@@ -6,7 +6,7 @@
 * 🌍  I'm based in Karachi,Pakistan
 * 🖥️  See my portfolio at [My Portfolio](https://stellar-gingersnap-beb77e.netlify.app/)
 * ✉️  You can contact me at [mrebaal14@gmail.com](mailto:mrebaal14@gmail.com)
-* 🚀  I'm currently working on I'm Currently working on Open Source.
+* 🚀  I'm Currently working on Open Source.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
