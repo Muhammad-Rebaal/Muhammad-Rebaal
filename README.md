@@ -32,8 +32,15 @@
 </p>
 
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Muhammad-Rebaal&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Rebaal&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Rebaal&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="http://www.github.com/Muhammad-Rebaal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Rebaal&stroke=ffffff&background=1e3a8a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Muhammad-Rebaal&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Rebaal&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Rebaal" /> </p>
