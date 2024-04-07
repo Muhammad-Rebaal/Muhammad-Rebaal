@@ -8,7 +8,7 @@
 * 🖥️  See my portfolio at [My Portfolio](https://stellar-gingersnap-beb77e.netlify.app/)
 * ✉️  You can contact me at [mrebaal14@gmail.com](mailto:mrebaal14@gmail.com)
 * 🚀  I'm Currently working on Open Source.
-<h3 align="left">Connect with me: https://www.linkedin.com/in/muhammad-rebaal-34936616a/</h3>
+
 <p align="left">
 </p>
 
