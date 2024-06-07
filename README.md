@@ -14,7 +14,7 @@
 
 <div align="left"> 
 
-🛠️ Languages and Tools:
+<img src="https://i.pinimg.com/originals/34/ab/a2/34aba28b689311419b03093965eb73a0.gif" alt="GIF" width="80" style="border: none;"> Languages and Tools:
 --
 </div>
 <div align="center">
@@ -38,7 +38,7 @@
 
 <br>
 
-🚀 My Contribution Badges:
+<img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f680.gif" alt="Rocket" width="50"> My Contribution Badges:
 --
 
 [![An image of @muhammadrebaal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadrebaal)](https://holopin.io/@muhammadrebaal)
