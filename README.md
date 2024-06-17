@@ -71,6 +71,30 @@
 
 <div/>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ3NWs1MjJ4YzRlMjQ5bG03ZmJyazMwMHdnNXBraWhkeWR0OWZ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mAJXcr1kTuVvExyj2q/giphy.webp" alt="Rocket" width="50"> My Certification Badges :
+--
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <a href="https://www.credly.com/badges/bd9ec733-4051-43d0-b707-9e580d2b2c50/print">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMeLvIIN7RMVBBCNSbISEe5E_o9RaJoEaoA&s" alt="GitHub Foundation Certification Badge" width="100" height="100" style="padding: 10px;">
+  </a>
+  
+  <a href="https://learn.microsoft.com/en-us/users/muhammadrebaal-5967/credentials/7f7001d0381e0088">
+    <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900 Badge" width="100" height="100" style="padding: 10px;">
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/users/muhammadrebaal-5967/credentials/951972a58c7bc6f1">
+    <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="AI-900 Badge" width="100" height="100" style="padding: 10px;">
+  </a>
+  
+  <a href="https://www.datacamp.com/certificate/DEA0013828357673">
+    <img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1717572705/Certification/Badges%202024/outline/DE_Associate_-_badge_with_outline.png" alt="DataCamp Badge" width="100" height="120" style="padding: 10px;">
+  </a>
+</div>
+
+
+
+
 
 <div align='left'>
 
