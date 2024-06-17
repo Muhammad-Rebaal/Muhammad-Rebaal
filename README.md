@@ -71,8 +71,12 @@
 
 <div/>
 
+<div align='left'>
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ3NWs1MjJ4YzRlMjQ5bG03ZmJyazMwMHdnNXBraWhkeWR0OWZ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mAJXcr1kTuVvExyj2q/giphy.webp" alt="Rocket" width="50"> My Certification Badges :
 --
+
+<div align='center'>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://www.credly.com/badges/bd9ec733-4051-43d0-b707-9e580d2b2c50/print">
@@ -91,6 +95,8 @@
     <img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1717572705/Certification/Badges%202024/outline/DE_Associate_-_badge_with_outline.png" alt="DataCamp Badge" width="100" height="120" style="padding: 10px;">
   </a>
 </div>
+<div/>
+<div/>
 
 
 
