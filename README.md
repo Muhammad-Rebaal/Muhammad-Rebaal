@@ -80,7 +80,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://www.credly.com/badges/bd9ec733-4051-43d0-b707-9e580d2b2c50/print">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMeLvIIN7RMVBBCNSbISEe5E_o9RaJoEaoA&s" alt="GitHub Foundation Certification Badge" width="100" height="100" style="padding: 10px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMeLvIIN7RMVBBCNSbISEe5E_o9RaJoEaoA&s" alt="GitHub Foundation Certification Badge" width="120" height="120" style="padding: 10px;">
   </a>
   
   <a href="https://learn.microsoft.com/en-us/users/muhammadrebaal-5967/credentials/7f7001d0381e0088">
