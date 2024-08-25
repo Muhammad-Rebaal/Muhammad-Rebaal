@@ -3,7 +3,7 @@
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)](https://en.wikipedia.org/wiki/Open_source)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--VOfAbb2B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://www.masterhacker.guru/wp-content/uploads/2020/07/HACKER.gif" width = 50px></picture> **About me**
 * 🌍  I'm based in Karachi,Pakistan
 * 🖥️  See my portfolio at [My Portfolio](https://stellar-gingersnap-beb77e.netlify.app/)
 * ✉️  You can contact me at [mrebaal14@gmail.com](mailto:mrebaal14@gmail.com)
