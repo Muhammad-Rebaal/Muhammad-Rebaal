@@ -3,7 +3,7 @@
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)](https://en.wikipedia.org/wiki/Open_source)
 
-## <picture><img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--VOfAbb2B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://www.masterhacker.guru/wp-content/uploads/2020/07/HACKER.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d3d7e17-858b-42ea-bd73-0953f3998b28/d5vi0fo-d5c30bb0-d7ec-4e83-a86e-6c54ecea0aeb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZkM2Q3ZTE3LTg1OGItNDJlYS1iZDczLTA5NTNmMzk5OGIyOFwvZDV2aTBmby1kNWMzMGJiMC1kN2VjLTRlODMtYTg2ZS02YzU0ZWNlYTBhZWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AGBBhWn21fvMrIjjwhY6eSRyFT_ThnquMlcwDPCU_zk" width = 150px></picture> **About me**
 * 🌍  I'm based in Karachi,Pakistan
 * 🖥️  See my portfolio at [My Portfolio](https://stellar-gingersnap-beb77e.netlify.app/)
 * ✉️  You can contact me at [mrebaal14@gmail.com](mailto:mrebaal14@gmail.com)
@@ -44,14 +44,9 @@
 [![An image of @muhammadrebaal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadrebaal)](https://holopin.io/@muhammadrebaal)
 
 
-
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️&center=true&size=20">
-  </a>
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️&center=true&size=20">
 </p>
-
 
 📊 GitHub Stats:
 --
