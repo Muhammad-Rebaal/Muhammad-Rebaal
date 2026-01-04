@@ -74,6 +74,10 @@
   <a href="https://www.credly.com/badges/bd9ec733-4051-43d0-b707-9e580d2b2c50/print">
     <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundation Certification Badge" width="120" height="120" style="padding: 10px;">
   </a>
+
+  <a href="https://www.credly.com/badges/a2b6704e-1d28-4a80-9dc5-76bcc83cfdfe/public_url">
+    <img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Google Generative AI Leader" width="100" height="120" style="padding: 10px;">
+  </a>
   
   <a href="https://learn.microsoft.com/en-us/users/muhammadrebaal-5967/credentials/7f7001d0381e0088">
     <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900 Badge" width="100" height="100" style="padding: 10px;">
